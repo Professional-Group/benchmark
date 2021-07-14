@@ -1,5 +1,14 @@
-# benchmark
-深度估计和深度质量评估的benchmark
+# Benchmark
+深度估计和深度质量评估的Benchmark
+
+# 一些说明
+所有文档均在readme填写，readme使用Markdown语言
+
+所有资源均使用git管理
+
+https://markdown.com.cn/  markdown教程
+
+https://www.liaoxuefeng.com/wiki/896043488029600 git教程
 
 ## 研究计划
 梳理相关论文
