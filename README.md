@@ -65,6 +65,7 @@ http://dpfan.net/d3netbenchmark/
 - https://github.com/JosephChenHub/DPANet
 - https://github.com/blanclist/CDNet
 - [DASNet 2020 (cvteam.net)](http://cvteam.net/projects/2020/DASNet/)
+- [XueHaoWang-Beijing/DQSF: Depth Quality-aware Selective Saliency Fusion for RGB-D Image Salient Object Detection (github.com)](https://github.com/XueHaoWang-Beijing/DQSF)
 ## 运行环境
 TODO
 ## 实验
