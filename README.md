@@ -67,6 +67,10 @@ http://dpfan.net/d3netbenchmark/
   开发一个联合学习框架实现 RGB-D SOD，利用三个组件（即，边缘检测、粗略显著性物体检测
 和深度估计）联合提升 SOD 性能
 
+- Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection
+
+  利用边缘Divce系数评估深度图质量，并加入空间注意力掩膜，使用二者作为门控参数进行融合。
+
 ## 相关代码
 - https://github.com/DengPingFan/D3NetBenchmark
 - https://github.com/JosephChenHub/DPANet
@@ -74,6 +78,7 @@ http://dpfan.net/d3netbenchmark/
 - [DASNet 2020 (cvteam.net)](http://cvteam.net/projects/2020/DASNet/)
 - [XueHaoWang-Beijing/DQSF: Depth Quality-aware Selective Saliency Fusion for RGB-D Image Salient Object Detection (github.com)](https://github.com/XueHaoWang-Beijing/DQSF)
 - https://github.com/jiwei0921/CoNet
+- https://github.com/zwbx/DFM-Net.
 ## 运行环境
 TODO
 ## 实验
