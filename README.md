@@ -51,6 +51,7 @@ http://dpfan.net/d3netbenchmark/
   在测试时不输入深度图，把深度图视为一种约束来进行SOD
   
   https://www.wolai.com/am9Tahbx9CGViVT6KF4Mru?theme=dark.
+  
 - SDF-Improved Saliency Detection in RGB-D Images Using Two-Phase Depth Estimation and Selective Deep Fusion
 
   三模态（RGB+Depth+估计深度图）（手工特征来估计深度）
@@ -60,12 +61,19 @@ http://dpfan.net/d3netbenchmark/
   深度质量评估
   
   https://www.wolai.com/5x6joGnnKCwPTh7wGv3Yqe?theme=dark
+  
+- W. Ji, J. Li, M. Zhang, Y. Piao, and H. Lu. Accurate rgb-d salient object detection via collaborative learning. In ECCV, 2020.
+
+  开发一个联合学习框架实现 RGB-D SOD，利用三个组件（即，边缘检测、粗略显著性物体检测
+和深度估计）联合提升 SOD 性能
+
 ## 相关代码
 - https://github.com/DengPingFan/D3NetBenchmark
 - https://github.com/JosephChenHub/DPANet
 - https://github.com/blanclist/CDNet
 - [DASNet 2020 (cvteam.net)](http://cvteam.net/projects/2020/DASNet/)
 - [XueHaoWang-Beijing/DQSF: Depth Quality-aware Selective Saliency Fusion for RGB-D Image Salient Object Detection (github.com)](https://github.com/XueHaoWang-Beijing/DQSF)
+- https://github.com/jiwei0921/CoNet
 ## 运行环境
 TODO
 ## 实验
