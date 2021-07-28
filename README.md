@@ -70,6 +70,8 @@ http://dpfan.net/d3netbenchmark/
 - Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection
 
   利用边缘Divce系数评估深度图质量，并加入空间注意力掩膜，使用二者作为门控参数进行融合。
+- PDNet:Prior-Model Guided Depth-Enhanced Network for Salient Object Detection
+  处理ＲＧＢ的主网络和充分利用Ｄ的子网络
 
 ## 相关代码
 - https://github.com/DengPingFan/D3NetBenchmark
@@ -79,6 +81,7 @@ http://dpfan.net/d3netbenchmark/
 - [XueHaoWang-Beijing/DQSF: Depth Quality-aware Selective Saliency Fusion for RGB-D Image Salient Object Detection (github.com)](https://github.com/XueHaoWang-Beijing/DQSF)
 - https://github.com/jiwei0921/CoNet
 - https://github.com/zwbx/DFM-Net.
+- https://github.com/cai199626/PDNet
 ## 运行环境
 TODO
 ## 实验
