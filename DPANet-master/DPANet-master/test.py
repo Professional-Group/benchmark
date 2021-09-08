@@ -25,12 +25,8 @@ from tqdm import tqdm
 
 
 
-DATASETS = ['./data/RGBD_sal/test/DUT',
-           './data/RGBD_sal/test/RGBD135',
-           './data/RGBD_sal/test/SSD100',
-           './data/RGBD_sal/test/LFSD',
-           './data/RGBD_sal/test/SIP',
-           './data/RGBD_sal/test/NJUD', './data/RGBD_sal/test/NLPR', './data/RGBD_sal/test/STEREO797']
+DATASETS = ['C:/Users/Godson/Downloads/data/RGBD_sal/test/ddd',
+           ]
 
 class Test(object):
     def __init__(self, conf, Dataset, datapath, Network):
